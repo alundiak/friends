@@ -11,7 +11,7 @@ Friends map based on Facebook API
 ## GraphQL related
 
 - https://graphql.org/graphql-js/
-- https://www.apollographql.com/docs/react/migrating/apollo-client-3-migration/?ck_subscriber_id=478712972#whats-new-in-30
+- https://www.apollographql.com/docs/react/migrating/apollo-client-3-migration
 - 
 
 ## Other simialr repos / gists
