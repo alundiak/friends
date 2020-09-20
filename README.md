@@ -27,9 +27,11 @@ Note: Maybe GraphQL technology can be used to request/convert Facebook API data.
 - [2019] https://github.com/musafir-py/Hidden-Friends-Finder - Python project, seems to be using ChromeDriver to scrawl user data.
 - [2018] https://github.com/LeoAJ/react-facebook-friends - React version of project from http://leoj.js.org/personalProjects/. Seems to be Facebook API v2.5 based.
 - [2018] https://github.com/sqren/fb-sleep-stats - JavaScript based, v2.5 relying.
+- [2017] https://github.com/andrewiggins/Facebook-Friend-Graph - Python based, relying on [GraphML](http://graphml.graphdrawing.org/).
 - [2017] https://github.com/sallySalem/Facebook-Friends-list - Java/Android example.
 - [2014] https://github.com/cmwelsh/facebook-friend-list - using Facebook API v2.0
     - https://github.com/cmwelsh/facebook-friend-list/blob/master/src/lib/facebook-api.js
-- [2012] https://gist.github.com/Andrioden/4198489/b690795ec7b83f8345175222d79a4c8dc35b3d42 - Web, JQUery, JQueryUI based. looks like hack.
+- [2012] https://gist.github.com/Andrioden/4198489/b690795ec7b83f8345175222d79a4c8dc35b3d42 - Web, JQuery, JQueryUI based. Looks like hack (or scrawler).
 - [2012] https://github.com/justin-taylor/Facebook-Friends-List-for-Android - Java/Android codebase.
+- Other search results on github: https://github.com/search?p=3&q=facebook-friends&type=Repositories
 
