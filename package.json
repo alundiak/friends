@@ -1,0 +1,22 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "Friends map based on Facebook API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alundiak/friends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alundiak/friends/issues"
+  },
+  "homepage": "https://github.com/alundiak/friends#readme",
+  "dependencies": {
+    "fb": "^2.0.0"
+  }
+}
