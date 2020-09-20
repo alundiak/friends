@@ -1,9 +1,10 @@
 {
-  "name": "friends",
+  "name": "@lundiak/friends",
   "version": "1.0.0",
-  "description": "Friends map based on Facebook API",
+  "description": "Facebook Friends Triangulation",
   "main": "index.js",
   "scripts": {
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/alundiak/friends#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "fb": "^2.0.0"
   }
 }
